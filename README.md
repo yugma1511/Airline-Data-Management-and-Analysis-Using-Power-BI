@@ -73,3 +73,5 @@ Airline or Transportation Analytics Scenarios
 🚀 Live Preview
 Check out the screenshots in the to view key dashboard visuals.
 This project showcases a fully interactive Power BI dashboard built to analyze and visualize airline operational and booking data. It provides real-time insights into flight performance, passenger distribution, ticket statuses, and popular destinations.
+
+Dashbord link : https://app.powerbi.com/groups/6fb71bee-9061-4d2d-9d19-89bc10e034e1/reports/5eb82ba9-3da6-4014-9991-532ea6d373e9/c17b14dfbf973c69338a?experience=power-bi
