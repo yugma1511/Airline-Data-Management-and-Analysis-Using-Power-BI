@@ -1,7 +1,7 @@
-✈️ Airline Data Management & Analysis – Power BI Dashboard Project
+##✈️ Airline Data Management & Analysis – Power BI Dashboard Project
 This project showcases a fully interactive Power BI dashboard built to analyze and visualize airline operational and booking data. It provides real-time insights into flight performance, passenger distribution, ticket statuses, and popular destinations.
 
-🔍 Project Objective
+#🔍 Project Objective
 To help airline stakeholders make data-driven decisions by visualizing KPIs like:
 
 Total Flights
